@@ -1,0 +1,17 @@
+.logo{
+  width: 70%;
+  height: 100px;
+  margin-left: 5.5%;
+}
+.image1{
+  background-image: url(../images/img1.jpeg);
+  padding: 200px;
+  margin-top: 20px;
+}
+.image2{
+  background-image: url(../images/img2.webp);
+  margin-top: 20px;
+}
+.logo-background{
+  background-color: black;
+}
